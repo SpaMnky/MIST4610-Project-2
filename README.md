@@ -37,4 +37,6 @@ Importance:
 
 ## Tableau packaged workbook
 
+The packaged workbook containing the visualizations shown above is attached to this repository.
+
 
