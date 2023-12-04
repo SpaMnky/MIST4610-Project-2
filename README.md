@@ -9,4 +9,32 @@
 
 4. Brian Ferro  [@dinough](https://github.com/dinough)
 
-5. Nathan Rockwell [@nathanrockwell](https://github.com/nathanrockwell)
+5. Nathan Rockwell [@nathanrockwell](https://github.com/nathanrockwell)## Description of dataset:
+
+
+
+## Question 1:
+
+Question: 
+
+Importance: 
+
+
+
+
+## Question 2:
+
+Question:
+
+Importance: 
+
+
+
+
+## Manupulations applied to the data set for analysis:
+
+
+
+## Tableau packaged workbook
+
+
