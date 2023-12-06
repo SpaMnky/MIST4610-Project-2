@@ -9,7 +9,7 @@
 
 4. Brian Ferro  [@dinough](https://github.com/dinough)
 
-5. Nathan Rockwell [@nathanrockwell](https://github.com/nathanrockwell)## Description of dataset:
+5. Nathan Rockwell [@nathanrockwell](https://github.com/nathanrockwell) 
 
 ## Description of dataset:
 Our dataset details the information on motor vehicle collisions in Montgomery County, sourced from the Automated Crash Reporting System (ACRS) of the Maryland State Police and reported by various law enforcement agencies. We obtained our dataset through the website provided: https://catalog.data.gov/dataset/crash-reporting-drivers-data. Included below is a description of each of the individual columns, as well as the data type associated.
