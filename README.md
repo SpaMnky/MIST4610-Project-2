@@ -117,9 +117,11 @@ This question is significant in understanding the timing and patterns of car cra
 
 The first graph shows us the number of crashes based on the time of day. By looking at this graph, it is clear that most accidents occur between the hours of 3:00 PM and 5:00 PM. This data is further analyzed in the following graph:
 
-C:\Users\natha\Downloads\thumbnail_image004.png
+<img width="746" alt="image" src="https://github.com/nathanrockwell/MIST4610-Project-2/assets/148256894/8ffcda25-f274-43fe-a1ed-c473164ed6c0">
 
 This visualization shows accidents between hours of 3:00 PM and 5:00 PM with the corresponding day of the week they occurred. The graph shows that most of these accidents occur on weekdays, which is most likely a result of rush-hour traffic with commuters returning home from work.
+
+<img width="554" alt="image" src="https://github.com/nathanrockwell/MIST4610-Project-2/assets/148256894/db141649-9e4f-4ff1-b6a7-ec1fa1231bb6">
 
 The final visualization for this questions shows the total number of crashes between 3:00 PM and 5:00 PM for each weekday, along with the month in which these accidents occurred. This data shows us that there is a decrease in the number of accidents in June and July, which could be due to people being on vacation or our of work for the summer. The data makes it clear that the number of accidents is directly correlated to the number of travellers on the road. This is important because it shows that law enforcement should allocate their resources to enforce traffic laws more during rush hour, and that drivers on the road should drive with more caution during these hours.
 
@@ -137,9 +139,11 @@ Importance:
 Correlating road names with the number of crashes helps identify high-risk areas and implement targeted safety measures. Understanding which roads have more accidents allows authorities to focus resources where they're needed most, improving overall road safety. It also informs public awareness efforts to promote caution on roads with a higher frequency of crashes.
 Correlating traffic controls with car crashes is crucial for understanding and improving road safety. Traffic controls, such as stop signs, traffic lights, and yield signs, regulate the flow of traffic and mitigate potential conflicts between vehicles. Analyzing the presence or absence of these controls at crash sites can help identify patterns. 
 
+<img width="470" alt="image" src="https://github.com/nathanrockwell/MIST4610-Project-2/assets/148256894/47d7d196-427c-4634-9039-56bf1e153434">
 
 This heat map shows the most dangerous streets, namely the most dangerous streets are Connecticut Ave, Frederick Rd, Georgia Ave, New Hampshire Ave, and Rockville Pike.
 
+<img width="467" alt="image" src="https://github.com/nathanrockwell/MIST4610-Project-2/assets/148256894/a8870e2e-5764-49ee-b6ed-59e3b24236b6">
 
 This graph shows that the primary controls on the most dangerous streets include a prevalence of no controls and street lights, while secondary controls like stop signs, yield signs, and flashing traffic signals are notably low. These findings underscore a critical need for heightened safety measures on these roadways. Implementing targeted interventions, such as increased signage or additional traffic signals, may be essential to address the identified risk factors and enhance overall road safety. The data provides valuable insights for local authorities to prioritize and allocate resources effectively, mitigating the frequency of accidents on these specific streets.
 
