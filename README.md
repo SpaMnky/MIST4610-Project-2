@@ -113,6 +113,7 @@ During which hours of the day are car crashes most frequent? Within these peak h
 Importance:  
 This question is significant in understanding the timing and patterns of car crashes, which is crucial for implementing safety measures and resource allocation. Analyzing the temporal patterns of car crashes within a dataset is essential for informed decision-making and enhanced road safety. By discerning the hours, days, and months when car accidents are most prevalent, authorities can allocate resources more efficiently, ensuring that law enforcement and emergency services are adequately prepared during peak periods. This knowledge also facilitates the development of targeted public safety campaigns and initiatives to address specific risk periods. Furthermore, this dataset raises public awareness of peak high-risk hours which are during rush periods of 3 pm - 5 pm. We can also identify which days are the most risky for drivers on the road, which is shown to be during weekdays. With this data we can also identify peak high-risk periods of the year, we can noticeably see an increase in risk reports from April to June and from September to October. 
 
+<img width="464" alt="image" src="https://github.com/nathanrockwell/MIST4610-Project-2/assets/148256894/84e9fdb7-7782-4f32-ac65-2918ed73befd">
 
 
 The first graph shows us the number of crashes based on the time of day. By looking at this graph, it is clear that most accidents occur between the hours of 3:00 PM and 5:00 PM. This data is further analyzed in the following graph:
