@@ -14,7 +14,9 @@
 ## Description of dataset:
 Our dataset details the information on motor vehicle collisions in Montgomery County, sourced from the Automated Crash Reporting System (ACRS) of the Maryland State Police and reported by various law enforcement agencies. We obtained our dataset through the website provided: https://catalog.data.gov/dataset/crash-reporting-drivers-data. Included below is a description of each of the individual columns, as well as the data type associated.
 Report Number: A unique identifier for each collision report. (Integer)
+
 Local Case Number: Local identifier assigned to the case by law enforcement. (Integer)
+
 Agency Name: Name of the law enforcement agency handling the collision report. (String)
 ACRS Report Type: Type of ACRS report, indicating whether it resulted in property damage or injury. (String)
 Crash Date/Time: Date and time when the collision occurred. (Date and Time)
