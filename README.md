@@ -98,7 +98,7 @@ This graph shows that the primary controls on the most dangerous streets include
 
 
 
-## Manupulations applied to the data set for analysis:
+## Manipulations applied to the data set for analysis:
 We used Tableau's "Cleaned with Data Interpreter" to refine our dataset for analysis. This tool transformed raw data into an optimal format for nuanced examination. The dataset, designed for clarity, includes quantitative and semantically rich information. Rigorous purging removed duplicates, extraneous variables, and inaccuracies. Tableau's Data Interpreter ensured data integrity by addressing incomplete or aberrant entries. Attention to formatting excluded disruptive third-party imports. The resultant dataset is a refined, internally consistent foundation for use in Tableau.
 ## Tableau packaged workbook
 
